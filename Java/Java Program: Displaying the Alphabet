@@ -1,0 +1,15 @@
+// Github username: Your Username
+// Aim: Your Repo aim according to your program
+// Date: Date of Coding
+
+// start coding
+
+class Main {
+  public static void main(String[] args) {
+
+    char c;
+
+    for(c = 'A'; c <= 'Z'; ++c)
+      System.out.print(c + " ");
+    }
+}
